@@ -1,31 +1,7 @@
-# Finance-demo
+# Finit
 
-## Development
+A basic conversational finance application built on [Init.ai](https:/init.ai).
 
-See the [Quickstart](http://docs.init.ai/docs/quickstart) for details on setting up your development environment
+This is the code and training data backing the demo seen here: https://www.init.ai/platform/automate#demo
 
-### Installation
-
-#### Node.js version
-
-To [run your scripts locally](http://docs.init.ai/docs/dev-server#section-local-testing), you should make sure to use Node.js version 4.3.2.
-
-We recommend using [nvm](https://github.com/creationix/nvm) to easily manage Node.js versions on your machine. This project is pre-provisioned with an `.nvmrc` file so you may simply run:
-
-```bash
-$ nvm use
-```
-
-#### Install dependencies
-
-```bash
-$ npm i
-```
-
-### Usage
-
-#### Start the Dev Server
-
-```bash
-$ npm start
-```
+Feel free to ask it common questions about publicly traded US stocks and the companies they represent.

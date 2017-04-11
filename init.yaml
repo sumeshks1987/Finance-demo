@@ -1,3 +1,2 @@
-init_version: 0.0.20
-app_name: Finance-demo
-split_messages: none
+init_version: 0.0.21-dev.1
+app_name: FinChat3
